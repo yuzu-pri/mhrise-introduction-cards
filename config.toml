@@ -1,0 +1,9 @@
+baseURL = "https://yuzu-pri.github.io/mhrise-introduction-cards"
+languageCode = "ja"
+title = "Monster Hunter Rise 自己紹介カード (HN: YUZU)"
+disableKinds = ["RSS", "sitemap"]
+theme = "ananke"
+
+[taxonomies]
+tag = "tags"
+
