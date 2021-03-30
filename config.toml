@@ -3,6 +3,7 @@ languageCode = "ja"
 title = "Monster Hunter Rise 自己紹介カード (HN: YUZU)"
 disableKinds = ["RSS", "sitemap"]
 theme = "ananke"
+publishDir = "docs"
 
 [taxonomies]
 tag = "tags"
